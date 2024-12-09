@@ -10,8 +10,8 @@ from PIL import Image
 
 st.set_page_config(page_title="Streamlit App", layout="centered", initial_sidebar_state="auto")
 
-image = Image.open(r"C:\Users\rolan\OneDrive\Pictures\Screenshots\download.png")
-st.image(image)
+#image = Image.open(r"C:\Users\rolan\OneDrive\Pictures\Screenshots\download.png")
+#st.image(image)
  
 # Authentication and login logic
 def authenticate():
