@@ -4,7 +4,7 @@ from data import data_page
 from prediction import predict_page
 from dashboard import dashboard_page
 from auth import authenticate
-from PIL import Image
+#from PIL import Image
 
 
 
